@@ -1,0 +1,2 @@
+# editplus
+vim colors
